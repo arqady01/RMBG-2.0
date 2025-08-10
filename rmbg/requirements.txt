@@ -1,0 +1,20 @@
+# Core ML stack
+torch>=2.3.0
+torchvision>=0.18.0
+
+# Image + transforms
+pillow>=10.3.0
+kornia>=0.7.3
+
+# HF model loader
+transformers>=4.41.2
+safetensors>=0.4.3
+
+# Model backbone utils
+timm>=0.9.16
+
+# GUI
+PyQt6>=6.7.0
+
+# Workflow integration
+watchdog>=3.0.0
